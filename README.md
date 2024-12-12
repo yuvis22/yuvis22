@@ -1,5 +1,5 @@
 # 🌟 A Glimpse Into My World
-🚀 Code Wizard in Action | Full-Stack & Android Developer.<br>🧩 Solving Problems, Building Solutions. <br>💻 Diving into the World of Next.JS, C++, TypeScript, TailwindCSS, NodeJS, ExpressJS & AWS <br>🔥 Always Evolving, Always Creating <br>🧠Let's Talk: NextJS, C++, Python, MongoDB, Flutter, JavaScript, NodeJS, ExpressJS, TypeScript <br>🎯 On a mission to make software magic happen!
+🚀 Code Wizard in Action | Full-Stack & Android Developer.<br>🧩 Solving Problems, Building Solutions. <br>💻 Diving into the World of Next.JS, C++, TypeScript, TailwindCSS, NodeJS, ExpressJS & AWS. <br>🔥 Always Evolving, Always Creating. <br>🧠Let's Talk: NextJS, C++, Python, MongoDB, Flutter, JavaScript, NodeJS, ExpressJS, TypeScript. <br>🎯 On a mission to make software magic happen!
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuvis_22/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvis22/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Yuvis222) 
@@ -22,7 +22,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvis22theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvis22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
 
