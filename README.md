@@ -17,7 +17,7 @@
 ![HookState](https://img.shields.io/badge/-HookState-FF8C00?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/-ChakraUI-38B2AC?style=flat&logo=chakra-ui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-ChakraUI-61DAFB?style=flat&logo=chakra-ui&logoColor=white)
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
